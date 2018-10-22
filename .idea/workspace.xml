@@ -26,6 +26,7 @@
     <session id="1864497422">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -46,18 +47,20 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="93" />
+          <entry key="css" value="2605" />
           <entry key="gitignore" value="18" />
-          <entry key="html" value="27" />
+          <entry key="html" value="1219" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="93" />
-          <entry key="HTML" value="27" />
+          <entry key="CSS" value="2605" />
+          <entry key="HTML" value="1219" />
           <entry key="PLAIN_TEXT" value="18" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
     </session>
   </component>
   <component name="FileEditorManager">
@@ -65,8 +68,15 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="7" column="119" selection-start-line="7" selection-start-column="119" selection-end-line="7" selection-end-column="119" />
+            <state relative-caret-position="556">
+              <caret line="75" column="52" lean-forward="true" selection-start-line="72" selection-start-column="32" selection-end-line="75" selection-end-column="52" />
+              <folding>
+                <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="e#1388#1392#1" expanded="true" />
+                <element signature="e#1442#1446#1" expanded="true" />
+                <element signature="n#form#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -74,8 +84,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+            <state relative-caret-position="377">
+              <caret line="337" lean-forward="true" selection-start-line="337" selection-end-line="337" />
             </state>
           </provider>
         </entry>
@@ -90,6 +100,15 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>after</find>
+      <find>banner-slides</find>
+      <find>yellow</find>
+      <find>form-rig</find>
+      <find>texta</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -110,9 +129,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="956" />
-    <option name="y" value="461" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="500" />
+    <option name="y" value="112" />
     <option name="width" value="964" />
     <option name="height" value="619" />
   </component>
@@ -142,7 +161,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../01_egzamin_1/WAR_FER_S_42_Egzamin_1" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -169,18 +188,17 @@
       <option name="presentableId" value="Default" />
       <updated>1538732930732</updated>
       <workItem from="1538732931880" duration="719000" />
-      <workItem from="1538734088730" duration="1401000" />
+      <workItem from="1538734088730" duration="13942000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2120000" />
+    <option name="totallyTimeSpent" value="14661000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="956" y="461" width="964" height="619" extended-state="0" />
-    <editor active="true" />
+    <frame x="59" y="25" width="1861" height="1055" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973433" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12785636" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -222,15 +240,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="7" column="119" selection-start-line="7" selection-start-column="119" selection-end-line="7" selection-end-column="119" />
+        <state relative-caret-position="556">
+          <caret line="75" column="52" lean-forward="true" selection-start-line="72" selection-start-column="32" selection-end-line="75" selection-end-column="52" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="e#1388#1392#1" expanded="true" />
+            <element signature="e#1442#1446#1" expanded="true" />
+            <element signature="n#form#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+        <state relative-caret-position="377">
+          <caret line="337" lean-forward="true" selection-start-line="337" selection-end-line="337" />
         </state>
       </provider>
     </entry>
