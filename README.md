@@ -1,2 +1,1 @@
-# Warsztat_html
-Warsztat html z zajęć
+Responsywna strona intenetowa ze sliderem. Technologie: HTML, CSS, SASS.
